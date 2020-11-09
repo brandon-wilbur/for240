@@ -1,3 +1,3 @@
 Documentation:
 
-* [Sleuthkit / Libewf](sleithkit-ewf/sleuthkit-ewf-tools.md)
+* [Sleuthkit / Libewf](sleuthkit-ewf/sleuthkit-ewf-tools.md)
